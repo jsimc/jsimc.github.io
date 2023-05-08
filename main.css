@@ -1,0 +1,172 @@
+body {
+    background-image: url("res/Rectangle 30.png");
+    background-color: #103435;
+    font-family: 'Asap', sans-serif;
+}
+
+.btn {
+    background-color: #3B1F2B;
+    color: #FCEFEF;
+}
+
+.navbar-brand {
+    font-family: 'Asap', sans-serif;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-family: 'Asap', sans-serif;
+}
+
+.cena-broj {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.cena-rsd {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.cena-mesecno {
+    font-size: smaller;
+    font-weight: bold;
+}
+
+.navbar-proba {
+    background-color: #17264A;
+}
+.navbar .nav-link {
+    color:#FCEFEF;
+}
+
+.fluid_navbar .navbar{
+    background-color: #2D2D2D;
+}
+.fluid_navbar .nav-link{
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.fluid_navbar .ponuda{
+    color: #F65454;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+} 
+
+.logo_header{
+    height: 3em;
+}
+
+.navbar-brand{
+    font-size: 1.5em;
+    color: #FCEFEF;
+    margin-left: 10px;
+}
+
+.logo_header {
+    height: 6em;
+}
+.input-group {
+    background-color:#4A70C8;
+}
+#search-bar {
+    background-color: #4A70C8;
+    color: #FCEFEF;
+}
+#search-bar::placeholder {
+    color: #FCEFEF;
+}
+.left-paragraph {
+    text-align: start;
+}
+  
+.right-paragraph {
+    text-align: end;
+}
+
+.top-level-domeni {
+    color: white;
+    backdrop-filter: blur(2px);
+    border-radius: 12px;
+    text-align: center;
+}
+
+.top-level-domeni .top-lvl {
+    background-color: #17484A;
+    color: #FCEFEF;
+}
+
+.top-level-domeni .prelazite-kod-nas {
+    background-color: #17484A;
+    color: #FCEFEF;
+}
+
+.paketi-info {
+    background-color: #17484A;
+    color: #FCEFEF;
+    text-align: center;
+    vertical-align: baseline;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.najkvalitetniji-hosting-u-srbiji {
+    background-color: #17484A;
+    color:#FCEFEF;
+}
+
+.novosti {
+    background-color: #17484A;
+    color: #FCEFEF;
+    padding: 3em;
+}
+
+.footer {
+    background-color: #17264A;
+    color: #FCEFEF;
+}
+/* Note: backdrop-filter has minimal browser support */
+.web-hosting-card {
+    background-color: #17484A;
+    color: #FCEFEF;
+}
+.vps-server {
+    background-color: #17484A;
+    color: #FCEFEF;
+}
+.dedicated-server {
+    background-color: #17484A;
+    color: #FCEFEF;
+}
+
+#business {
+    background-color: #4FFF55;
+}
+
+#business .btn {
+    background-color: #17484A;
+}
+
+.naslov-business {
+    color:#FCEFEF;
+}
+
+.biznis-ssd-paketi {
+    background-color: #17484A;
+    color:#FCEFEF;
+}
+
+.footer-my {
+    background-color: #17264A;
+}
+
+.h1 {
+    font-family: 'Asap', sans-serif;
+    font-weight: bold;
+}
